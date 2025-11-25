@@ -1,0 +1,104 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+.main-box{
+    display: flex;
+}
+.box{
+    height: 240;
+    width: 15%;
+    background-color: aqua;
+    border: 1px solid black;
+    margin: 1%;
+    border-radius: 10px;
+}
+.box{
+    height: 240;
+    width: 15%;
+    background-color: aqua;
+    border: 1px solid black;
+    margin: 1%;
+    border-radius: 10px;
+}
+.box{
+    height: 240;
+    width: 15%;
+    background-color: aqua;
+    border: 1px solid black;
+    margin: 1%;
+    border-radius: 10px;
+}
+.box{
+    height: 240;
+    width: 15%;
+    background-color: aqua;
+    border: 1px solid black;
+    margin: 1%;
+    border-radius: 10px;
+}
+.box{
+    height: 240;
+    width: 15%;
+    background-color: aqua;
+    border: 1px solid black;
+    margin: 1%;
+    border-radius: 10px;
+}
+.box{
+    height: 240;
+    width: 15%;
+    background-color: aqua;
+    border: 1px solid black;
+    margin: 1%;
+    border-radius: 10px;
+}
+.box{
+    height: 240;
+    width: 15%;
+    background-color: aqua;
+    border: 1px solid black;
+    margin: 1%;
+    border-radius: 10px;
+}
+.box{
+    height: 240;
+    width: 15%;
+    background-color: aqua;
+    border: 1px solid black;
+    margin: 1%;
+    border-radius: 10px;
+}
+.box{
+    height: 240;
+    width: 15%;
+    background-color: aqua;
+    border: 1px solid black;
+    margin: 1%;
+    border-radius: 10px;
+}
+.box{
+    height: 240;
+    width: 15%;
+    background-color: aqua;
+    border: 1px solid black;
+    margin: 1%;
+    border-radius: 10px;
+} */
+ div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    transition-property: all;
+    transition-duration: 3s;
+    transition-timing-function: ease-out;
+    transition-delay: 2s;
+ }
+ div:hover{
+    background-color: black;
+    color: aquamarine;
+ }
+ div:active{
+    color: burlywood;
+    
+ }
